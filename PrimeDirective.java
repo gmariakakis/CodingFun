@@ -1,4 +1,4 @@
-//Authos Gmariakakis
+//Author Gmariakakis
 import java.util.ArrayList;
 
 
